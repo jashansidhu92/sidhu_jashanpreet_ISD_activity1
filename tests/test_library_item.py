@@ -5,8 +5,8 @@ the following command:
     python -m unittest tests/test_book.py
 
 """
-__author__ = ""
-__version__ = ""
+__author__ = "Jashanpreet Sidhu"
+__version__ = "1.0.0"
 
 import unittest
 from genre.genre import Genre
